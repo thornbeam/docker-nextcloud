@@ -1,0 +1,6 @@
+*
+!.gitignore
+!docker-compose.yaml
+!proxy
+proxy/*
+!proxy/Dockerfile

@@ -3,5 +3,6 @@
 !README.md
 !docker-compose.yaml
 !proxy
+!docker-nextcloud-prune.sh
 proxy/*
 !proxy/Dockerfile
